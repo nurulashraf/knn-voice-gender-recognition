@@ -4,8 +4,8 @@ A simple machine learning project that uses the K-Nearest Neighbors (KNN) algori
 
 ## Project Structure
 
-- `dataset/`: Contains the voice dataset in CSV format.
-- `knn_voice_gender.ipynb`: Jupyter notebook with all the code for data loading, preprocessing, training, and evaluation.
+- `data/`: Contains the voice dataset in CSV format.
+- `knn_voice_gender_recognition.ipynb`: Jupyter notebook with all the code for data loading, preprocessing, training, and evaluation.
 - `requirements.txt`: Lists the required Python libraries.
 
 ## Features
@@ -40,7 +40,7 @@ A simple machine learning project that uses the K-Nearest Neighbors (KNN) algori
 
 3. **Run the notebook:**
 
-Open `knn_voice_gender.ipynb` using Jupyter Notebook or Jupyter Lab and run through the cells step by step.
+Open `knn_voice_gender_recognition.ipynb` using Jupyter Notebook or Jupyter Lab and run through the cells step by step.
 
 ## License
 
